@@ -8,7 +8,7 @@ w/React, axios...
 
 #### Author
 👩🏼‍💻 Paula Romero Armas<br>
-👤LinkedIn: https://www.linkedin.com/in/pauromeropau/<br>
+👤 LinkedIn: https://www.linkedin.com/in/pauromeropau/<br>
   Github: https://github.com/pauromeropau<br>
-📩pauromeropau@gmail.com<br>
-📍Madrid, Spain.
+📩 pauromeropau@gmail.com<br>
+📍 Madrid, Spain.
