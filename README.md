@@ -4,7 +4,7 @@ w/React, axios...
 
 ![](https://media.giphy.com/media/LLY8JzXIFT4eHdLou2/giphy.gif)
 
-👉🏻 ![DEMO](https://random-user-pauromeropau.netlify.app/)
+👉🏻 [DEMO](https://random-user-pauromeropau.netlify.app/)
 
 #### Author
 👩🏼‍💻 Paula Romero Armas<br>
