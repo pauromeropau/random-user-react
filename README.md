@@ -12,5 +12,3 @@ w/React, axios...
   Github: https://github.com/pauromeropau<br>
 📩pauromeropau@gmail.com<br>
 📍Madrid, Spain.
-📩 pauromeropau@gmail.com<br>
-📍 Madrid, Spain.<br>
